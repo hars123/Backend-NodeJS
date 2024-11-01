@@ -25,4 +25,12 @@ fs.appendFile('greeting.text',user.username + '!', ()=>{
 });
 
 
+<!-- For acessing Diffrent file  -->
+<!-- 
+const notes = require('./notes.js');
+console.log("NodeserverOpen"); -->
+
+<!-- 
+Lodash use for Data manipulaiton  -->
+
 -->
