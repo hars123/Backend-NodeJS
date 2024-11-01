@@ -1,0 +1,13 @@
+<!-- Create server in node js & callback function javascript | node js tutorial for beginners -->
+
+<!-- 
+
+1.Pakage.json : Ensure a list of packages with their version 
+Analogy : list of cloth you want to purchase with size and all it also consists of other metadata like name and all.
+
+2.Pakage-lock.json - Ensure detailed of every pakage installed with version ,subu dependensics ,store detailed discount everything..
+
+.It's like a  detailed billed
+.Both files work together to ensure smooth development for you and your team
+
+-->
