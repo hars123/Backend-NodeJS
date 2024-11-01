@@ -10,4 +10,19 @@ Analogy : list of cloth you want to purchase with size and all it also consists 
 .It's like a  detailed billed
 .Both files work together to ensure smooth development for you and your team
 
+
+. Learn about FS module
+It creates a file and writes the message inside
+
+.Learn about the os module
+Learn os.userinfo()
+Log username
+
+
+// For creating a File
+fs.appendFile('greeting.text',user.username + '!', ()=>{
+    console.log('file is created');
+});
+
+
 -->
