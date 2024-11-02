@@ -11,7 +11,7 @@ Analogy : list of cloth you want to purchase with size and all it also consists 
 .Both files work together to ensure smooth development for you and your team
 
 
-. Learn about FS module
+.Learn about FS module
 It creates a file and writes the message inside
 
 .Learn about the os module
