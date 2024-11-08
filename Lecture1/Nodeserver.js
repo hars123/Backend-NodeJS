@@ -14,7 +14,7 @@ const addtwonumber = (a,b) =>{
 var result = addtwonumber(4,4);
 console.log(result);
 
-const addtwonumber =(a,b) => a+b;
+const addtwonumber = (a,b) => a+b;
 
 callbackfunction
 function callbackfunction(){
