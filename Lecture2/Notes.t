@@ -12,3 +12,12 @@ Analogy -> chef = database
 
 Web pages, images , videos or any additional information.
 
+Json : Javascript Object Notation
+
+.Json is a lightweight Structured and organized data because in most contexts , Json is represented as a string 
+ 
+{
+  "name" : "haarshit",
+  "age" : 25,
+  "hoobies" : ["reading" , "hiking"]
+}
