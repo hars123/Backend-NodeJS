@@ -1,0 +1,16 @@
+{
+  "name": "nodebackend",
+  "version": "1.0.0",
+  "description": "firstBackendlecture",
+  "main": "index.js",
+  "scripts": {
+    
+    "start": "chai aur code"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Harshit Shukla",
+  "license": "ISC"
+}
