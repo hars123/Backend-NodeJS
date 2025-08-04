@@ -1,0 +1,8 @@
+1. Create a Server
+
+Creating a server in backend means setting up a system that listens for client requests (like from a browser or app), processes them, and sends back a response (like HTML, JSON, etc.)
+
+2.Nodemon Working : 
+nodemon is a development tool for Node.js apps that automatically restarts your server whenever you make changes to your code.
+
+🔁 It watches your files and restarts the server — so you don’t need to do it manually every time.
